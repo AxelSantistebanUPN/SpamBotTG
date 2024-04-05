@@ -7,7 +7,7 @@ def banner():
     cls()
     logo = '''
 
-    ▒██   ██▒   pwned by Chispas;
+    ▒██   ██▒   pwned by Axel;
     ▒▒ █ █ ▒░
     ░░  █   ░   1. Spam
      ░ █ █ ▒    2. Exit
